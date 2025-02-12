@@ -1,1 +1,1 @@
-document.querySelector('body').innerHTML = "<img src=https://swatmarek.github.io/test/login.png><h3>Tutaj może pojawić się fałszywa treść kontrolowana przez atakującego. Może ona służyć np. do wyłudzenia pieniędzy klienta.</h3>";
+document.querySelector('body').innerHTML = "<img src=https://swatmarek.github.io/test/login.svg>";
