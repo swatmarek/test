@@ -1,1 +1,1 @@
-document.querySelector('body').innerHTML = "<img src=https://swatmarek.github.io/test/login.svg>";
+document.querySelector('body').innerHTML = "<img src=https://swatmarek.github.io/test/login.jpg>";
